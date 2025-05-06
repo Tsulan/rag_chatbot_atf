@@ -1,0 +1,10 @@
+{
+  "question": "Who is Albert Einstein?",
+  "answer": "Albert Einstein was a сhemist",
+  "contexts": [
+    "Albert Einstein was born on March 14, 1879, in Germany.",
+    "He developed the theory of relativity, and received the Nobel Prize in Physics in 1921",
+    "Einstein published his famous equation E=mc^2."
+  ],
+  "groundTruth": "Albert Einstein was a German-born physicist who developed the theory of relativity and received the Nobel Prize in Physics in 1921."
+}
